@@ -89,4 +89,15 @@ footer {
         width: 100% !important;
         justify-content: space-around !important;
     }
+
+    .slogan {
+        margin: 0 !important;
+        margin-top: 2rem !important;
+        width: 100% !important;
+    }
+
+    .slogan .titulo {
+        width: 100%;
+        font-size: 2.8ch;
+    }
 }
