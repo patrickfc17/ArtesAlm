@@ -15,7 +15,8 @@
 
 .slogan .destaque-vale {
     font-weight: 600;
-    background: linear-gradient(
+    color: var(--overleaf-900);
+    background: -webkit-linear-gradient(
         135deg,
         var(--overleaf-900) 0%,
         var(--overleaf-700) 20%,
@@ -23,6 +24,7 @@
         var(--overleaf-700) 80%
     );
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -30,7 +32,6 @@
     display: flex;
     padding: 4rem;
     gap: 10rem;
-    overflow: scroll;
 }
 
 .capa {
