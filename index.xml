@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ArtesAlm - Artesanato do Vale do Jequitinhonha</title>
-    <link>https://localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on ArtesAlm - Artesanato do Vale do Jequitinhonha</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 09 Aug 2024 04:27:57 -0300</lastBuildDate>
-    <atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Costuras</title>
-      <link>https://localhost:1313/costuras/</link>
+      <link>http://localhost:1313/costuras/</link>
       <pubDate>Fri, 09 Aug 2024 04:27:57 -0300</pubDate>
-      <guid>https://localhost:1313/costuras/</guid>
+      <guid>http://localhost:1313/costuras/</guid>
       <description></description>
     </item>
     <item>
       <title>Barros</title>
-      <link>https://localhost:1313/barros/</link>
+      <link>http://localhost:1313/barros/</link>
       <pubDate>Fri, 09 Aug 2024 04:25:20 -0300</pubDate>
-      <guid>https://localhost:1313/barros/</guid>
+      <guid>http://localhost:1313/barros/</guid>
       <description></description>
     </item>
     <item>
       <title>Cerâmicas</title>
-      <link>https://localhost:1313/ceramicas/</link>
+      <link>http://localhost:1313/ceramicas/</link>
       <pubDate>Fri, 09 Aug 2024 02:30:17 -0300</pubDate>
-      <guid>https://localhost:1313/ceramicas/</guid>
+      <guid>http://localhost:1313/ceramicas/</guid>
       <description></description>
     </item>
     <item>
       <title>Home</title>
-      <link>https://localhost:1313/home/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Thu, 01 Aug 2024 21:10:29 -0300</pubDate>
-      <guid>https://localhost:1313/home/</guid>
+      <guid>http://localhost:1313/home/</guid>
       <description></description>
     </item>
   </channel>
