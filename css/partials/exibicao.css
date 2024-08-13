@@ -28,6 +28,10 @@
     -webkit-text-fill-color: transparent;
 }
 
+.slogan .destaque-vale a {
+    text-decoration: none;
+}
+
 .exibicao {
     display: flex;
     padding: 4rem;
